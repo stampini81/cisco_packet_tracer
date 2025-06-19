@@ -6,7 +6,7 @@ Este repositório contém a documentação e o passo a passo de configuração d
 
 ## Sumário
 
-1.  [Visão Geral do Projeto](https://www.google.com/search?q=%231-vis%C3%A3o-geral-do-projeto)
+1.  [Visão Geral do Projeto](##1\. Visão Geral do Projeto )
 2.  [Estrutura da Empresa e Requisitos](https://www.google.com/search?q=%232-estrutura-da-empresa-e-requisitos)
       * [Departamentos e Localização](https://www.google.com/search?q=%23departamentos-e-localiza%C3%A7%C3%A3o)
       * [Contagem de PCs por Setor](https://www.google.com/search?q=%23contagem-de-pcs-por-setor)
